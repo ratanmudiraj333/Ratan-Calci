@@ -1,0 +1,327 @@
+
+.Heading
+{
+    position:relative;
+    left:538px;
+    top: 50px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+    border: solid black;
+    border-width: 5px;
+    padding: 20px;
+}
+.Instructions
+{
+    position:relative;
+    left:10px;
+    top: 140px;
+    height: -10px;
+    width: 350px;
+    margin-left: 10px;
+    border: solid black;
+    border-width: 5px;
+    padding: 10px;
+}
+.calci
+{
+    position:relative;
+    left:510px;
+    top: 270px;
+    height: 40px;
+    width: 250px;
+    margin-left: 10px;
+    border: solid black;
+    border-width: 5px;
+    padding: 200px;
+}
+.zero{
+    position:relative;
+    left: 606px;
+    top: -150px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.one{
+    position:relative;
+    left: 700px;
+    top: -224px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.two{
+    position:relative;
+    left: 800px;
+    top: -297px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.three{
+    position:relative;
+    left: 605px;
+    top: -270px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.four{
+    position:relative;
+    left: 700px;
+    top: -344px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.five{
+    position:relative;
+    left: 800px;
+    top: -418px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.six{
+    position:relative;
+    left: 607px;
+    top: -395px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px;
+}
+.seven{
+    position:relative;
+    left: 700px;
+    top: -469px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.eight{
+    position:relative;
+    left: 800px;
+    top: -543px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.nine{
+    position:relative;
+    left: 610px;
+    top: -520px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.add{
+    position:relative;
+    left: 900px;
+    top: -895px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.minus{
+    position:relative;
+    left: 900px;
+    top: -867px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.multiply{
+    position:relative;
+    left: 900px;
+    top: -842px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.division{
+    position:relative;
+    left: 900px;
+    top: -818px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.equals{
+    position:relative;
+    left: 700px;
+    top: -893px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+.clear{
+    position:relative;
+    left: 800px;
+    top: -968px;
+    width: 50px;
+    height: 50px;
+    border:solid;
+    border-radius: 20%;
+    background-color: blue;
+    padding:10px
+}
+
+.border1{
+    position:relative;
+    left: 560px;
+    top: -940px;
+    width: 440px;
+    height:1px;
+    /*border:solid;*/
+    border-radius: 20%;
+    background-color: black;
+    padding:5px
+}
+.border2{
+    position:relative;
+    left: 556px;
+    top: -1405px;
+    width: 1px;
+    height:454px;
+    /*border:solid;*/
+    border-radius: 20%;
+    background-color: black;
+    padding:5px
+}
+
+.border3{
+    position:relative;
+    left: 560px;
+    top: -1870px;
+    width: 434px;
+    height:1px;
+    /*border:solid;*/
+    border-radius: 20%;
+    background-color: black;
+    padding:5px
+}
+
+.border4{
+    position:relative;
+    left: 1000px;
+    top: -1880px;
+    width: 1px;
+    height:450px;
+    /*border:solid;*/
+    border-radius: 20%;
+    background-color: black;
+    padding:5px
+}
+
+.Input{
+    position:relative;
+    left: 1060px;
+    top: -2290px;
+    width: 300px;
+    height:50px;
+    border:solid;
+    border-radius: 0%;
+    background-color: blue;
+    padding:15px
+}
+.input{
+    font-size: 20px;
+    font-weight: bold;
+}
+/*
+body
+{
+    background-color: Grey;
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
+*/
+
+
+@media screen and (min-width: 1024px)
+{
+body
+ {
+    background-color: grey;
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+ }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) 
+{
+body
+ {
+    background-color: grey;
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+ }
+}
+
+@media screen and (max-width: 767px) 
+{
+body
+ {
+    background-color: grey;
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+ }
+}
